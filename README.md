@@ -1,5 +1,6 @@
 # Data-mining-and-Machine-Learning
 This is about cleaning and analysing Melbourne Housing Dataset.
+
 # Melbourne Housing 1
 -Analysis of a given data set and to report on their findings in the context of a real-world decision problem.
 
@@ -20,4 +21,6 @@ Exploratory analysis: Methodology, Results and Discussion. This includes:
 -Using effective visualizations to demonstrate findings/results.
 
 # Melbourne Housing 2
-No.2 includes machine learning algorithms.
+-Select and apply appropriate machine learning techniques relevant to the selected problem, and to report on their achievements relative to problem objectives.
+
+-Using findings from first analysis and taking it to the next level by applying Machine Learning methods.
